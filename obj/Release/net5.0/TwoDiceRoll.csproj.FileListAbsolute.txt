@@ -1,0 +1,16 @@
+E:\code\vs\TwoDiceRoll\bin\Release\net5.0\TwoDiceRoll.exe
+E:\code\vs\TwoDiceRoll\bin\Release\net5.0\TwoDiceRoll.deps.json
+E:\code\vs\TwoDiceRoll\bin\Release\net5.0\TwoDiceRoll.runtimeconfig.json
+E:\code\vs\TwoDiceRoll\bin\Release\net5.0\TwoDiceRoll.runtimeconfig.dev.json
+E:\code\vs\TwoDiceRoll\bin\Release\net5.0\TwoDiceRoll.dll
+E:\code\vs\TwoDiceRoll\bin\Release\net5.0\ref\TwoDiceRoll.dll
+E:\code\vs\TwoDiceRoll\bin\Release\net5.0\TwoDiceRoll.pdb
+E:\code\vs\TwoDiceRoll\obj\Release\net5.0\TwoDiceRoll.csprojAssemblyReference.cache
+E:\code\vs\TwoDiceRoll\obj\Release\net5.0\TwoDiceRoll.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\vs\TwoDiceRoll\obj\Release\net5.0\TwoDiceRoll.AssemblyInfoInputs.cache
+E:\code\vs\TwoDiceRoll\obj\Release\net5.0\TwoDiceRoll.AssemblyInfo.cs
+E:\code\vs\TwoDiceRoll\obj\Release\net5.0\TwoDiceRoll.csproj.CoreCompileInputs.cache
+E:\code\vs\TwoDiceRoll\obj\Release\net5.0\TwoDiceRoll.dll
+E:\code\vs\TwoDiceRoll\obj\Release\net5.0\ref\TwoDiceRoll.dll
+E:\code\vs\TwoDiceRoll\obj\Release\net5.0\TwoDiceRoll.pdb
+E:\code\vs\TwoDiceRoll\obj\Release\net5.0\TwoDiceRoll.genruntimeconfig.cache

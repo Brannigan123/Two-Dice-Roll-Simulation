@@ -1,0 +1,5 @@
+E:\code\vs\TwoDiceRoll\bin\Release\net5.0\publish\TwoDiceRoll.exe
+E:\code\vs\TwoDiceRoll\bin\Release\net5.0\publish\TwoDiceRoll.dll
+E:\code\vs\TwoDiceRoll\bin\Release\net5.0\publish\TwoDiceRoll.deps.json
+E:\code\vs\TwoDiceRoll\bin\Release\net5.0\publish\TwoDiceRoll.runtimeconfig.json
+E:\code\vs\TwoDiceRoll\bin\Release\net5.0\publish\TwoDiceRoll.pdb
